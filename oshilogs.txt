@@ -1,0 +1,90 @@
+c[36m====================================================[0m
+[36m   ___  ____  _   _ ___   _        _    ____  ____   [0m
+[36m  / _ \/ ___|| | | |_ _| | |      / \  | __ )| ___|  [0m
+[36m | | | \___ \| |_| || |  | |     / _ \ |  _ \|___ \  [0m
+[36m | |_| |___) |  _  || |  | |___ / ___ \| |_) |___) | [0m
+[36m  \___/|____/|_| |_|___| |_____/_/   \_\____/|____/  [0m
+[36m====================================================[0m
+
+delay/task: 10s | limit: semua
+akun source: /home/runner/work/c21hcG9ja2VDYXVsaWE/c21hcG9ja2VDYXVsaWE/account.json | jumlah: 1
+mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch Anime, Read Article, Quiz Anime, Music Missions, Claim Missions, Check Eligibility, Read Manga, Get Gift, Setup Profile, Bind Wallet SEQUENSIAL
+
+
+===== [1/1] Caulia =====
+[1]Caulia      |09:10:01 | 13-10-2026| login OK @wcaulia | score=1010 rank=6216
+[1]Caulia      |09:10:01 | 13-10-2026| serverTime=2026-10-13T09:10:01.000Z local=2026-10-13T09:10:01.765Z
+--> [1]Caulia menjalankan: Claim Daily
+[1]Caulia      |09:10:03 | 13-10-2026| daily: OK +10 poin score=1020
+--> [1]Caulia menjalankan: Auto All Tasks (11 pending)
+[1]Caulia      |09:10:06 | 13-10-2026| [1/11] cdea075d (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/wcaulia/status/2109934244568790509
+[1]Caulia      |09:10:06 | 13-10-2026| delay 10s...
+[1]Caulia      |09:10:18 | 13-10-2026| [2/11] c0692622 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/wcaulia/status/2109934383099728897
+[1]Caulia      |09:10:18 | 13-10-2026| delay 10s...
+[1]Caulia      |09:10:30 | 13-10-2026| [3/11] c3c2f662 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/wcaulia/status/2109934194832446108
+[1]Caulia      |09:10:30 | 13-10-2026| delay 10s...
+[1]Caulia      |09:10:42 | 13-10-2026| [4/11] 52236caa (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/wcaulia/status/2109934434778183240
+[1]Caulia      |09:10:42 | 13-10-2026| delay 10s...
+[1]Caulia      |09:10:56 | 13-10-2026| [5/11] fa907706 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/wcaulia/status/2109934377097852068
+[1]Caulia      |09:10:56 | 13-10-2026| delay 10s...
+[1]Caulia      |09:11:08 | 13-10-2026| [6/11] f3c57454 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203
+[1]Caulia      |09:11:08 | 13-10-2026| delay 10s...
+[1]Caulia      |09:11:21 | 13-10-2026| [7/11] 446fd4f4 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/wcaulia/status/2109934369533454617
+[1]Caulia      |09:11:21 | 13-10-2026| delay 10s...
+[1]Caulia      |09:11:35 | 13-10-2026| [8/11] cbf91691 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/wcaulia/status/2109934749225465600
+[1]Caulia      |09:11:35 | 13-10-2026| delay 10s...
+[1]Caulia      |09:11:47 | 13-10-2026| [9/11] 484fa559 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/wcaulia/status/2109934698138971918
+[1]Caulia      |09:11:47 | 13-10-2026| delay 10s...
+[1]Caulia      |09:11:59 | 13-10-2026| [10/11] 7411ef73 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/wcaulia/status/2109934846065829082
+[1]Caulia      |09:11:59 | 13-10-2026| delay 10s...
+[1]Caulia      |09:12:11 | 13-10-2026| [11/11] 65e97767 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203
+[1]Caulia      |09:12:11 | 13-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Caulia      |09:12:13 | 13-10-2026| [1/1] cdea075d (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2108174064712032 | proof=https://x.com/wcaulia/status/2109934713427604285
+--> [1]Caulia menjalankan: Watch Anime
+[1]Caulia      |09:12:14 | 13-10-2026| watch: semua video sudah completed
+--> [1]Caulia menjalankan: Read Article
+[1]Caulia      |09:12:15 | 13-10-2026| news: 24/24 artikel selesai dibaca
+[1]Caulia      |09:12:16 | 13-10-2026| mint eligibility: {"userId":"1635598125447659520","youtube":{"url":"https://www.youtube.com/@wcaulia","status":"unsubmitted","revision":"","submittedAt":null,"reviewedAt":null,"note":"","checkedAt":null,"automaticReady
+[1]Caulia      |09:12:16 | 13-10-2026| news: semua artikel sudah dibaca
+--> [1]Caulia menjalankan: Quiz Anime
+[1]Caulia      |09:12:17 | 13-10-2026| quiz ep1: sudah dijawab
+[1]Caulia      |09:12:17 | 13-10-2026| quiz ep2: sudah dijawab
+[1]Caulia      |09:12:17 | 13-10-2026| quiz ep3: sudah dijawab
+[1]Caulia      |09:12:17 | 13-10-2026| quiz ep4: sudah dijawab
+[1]Caulia      |09:12:17 | 13-10-2026| quiz ep5: sudah dijawab
+[1]Caulia      |09:12:17 | 13-10-2026| quiz ep6: sudah dijawab
+--> [1]Caulia menjalankan: Music Missions (realtime, bisa lama!)
+[1]Caulia      |09:12:19 | 13-10-2026| music: kedua misi sudah tercapai, stop
+[1]Caulia      |09:12:19 | 13-10-2026| mission music-listens-10: sudah diklaim
+[1]Caulia      |09:12:19 | 13-10-2026| mission music-minutes-30: sudah diklaim
+[1]Caulia      |09:12:19 | 13-10-2026| mission anime-completed-3: sudah diklaim
+--> [1]Caulia menjalankan: Claim Missions
+[1]Caulia      |09:12:20 | 13-10-2026| mission music-listens-10: sudah diklaim
+[1]Caulia      |09:12:20 | 13-10-2026| mission music-minutes-30: sudah diklaim
+[1]Caulia      |09:12:20 | 13-10-2026| mission anime-completed-3: sudah diklaim
+--> [1]Caulia menjalankan: Check Eligibility
+
+--- eligibility [1]Caulia ---
+  @wcaulia | score=1010 rank=6216
+  tasks    [#################---] 66/77
+  mission  music-listens-10:      claimed
+  mission  music-minutes-30:      claimed
+  mission  anime-completed-3:     claimed
+  quiz     [####################] 6/6
+  watch    [####################] 18/17
+  music    [####################] 11/11
+  artikel  [####################] 24/24
+  mint: requirementsMet=false mintOpen=false discord=true
+
+--> [1]Caulia menjalankan: Read Manga
+[1]Caulia      |09:12:24 | 13-10-2026| manga: 0/13 chapter belum completed
+--> [1]Caulia menjalankan: Get Gift
+[1]Caulia      |09:12:25 | 13-10-2026| gift: 0/3 belum diterima
+--> [1]Caulia menjalankan: Setup Profile
+[1]Caulia      |09:12:25 | 13-10-2026| profile: bio="https://x.com/wcaulia" fav=kagura rewardAt=1791682160
+[1]Caulia      |09:12:25 | 13-10-2026| profile: bonus sudah diklaim, skip
+--> [1]Caulia menjalankan: Bind Wallet
+[1]Caulia      |09:12:26 | 13-10-2026| wallet: sudah terikat 9B4qC8JrSz... (solana)
+
+== RINGKASAN ==
+- Caulia: daily=claimed | tasks OK 12/12 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/3 diterima | profile - | wallet bound | mint req=false open=false
