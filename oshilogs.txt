@@ -12,156 +12,99 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Caulia =====
-[1]Caulia      |08:14:40 | 20-10-2026| login OK @wcaulia | score=1570 rank=4420
-[1]Caulia      |08:14:40 | 20-10-2026| serverTime=2026-10-20T08:14:40.000Z local=2026-10-20T08:14:40.673Z
+[1]Caulia      |05:46:41 | 22-10-2026| login OK @wcaulia | score=1620 rank=4437
+[1]Caulia      |05:46:41 | 22-10-2026| serverTime=2026-10-22T05:46:41.000Z local=2026-10-22T05:46:41.707Z
 --> [1]Caulia menjalankan: Claim Daily
-[1]Caulia      |08:14:41 | 20-10-2026| daily: OK +10 poin score=1580
---> [1]Caulia menjalankan: Auto All Tasks (6 pending)
-[1]Caulia      |08:14:43 | 20-10-2026| [1/6] f8ede5f6 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/wcaulia/status/2112456899566546393
-[1]Caulia      |08:14:43 | 20-10-2026| delay 10s...
-[1]Caulia      |08:14:54 | 20-10-2026| [2/6] 6e765bbf (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/wcaulia/status/2112457031932771678
-[1]Caulia      |08:14:54 | 20-10-2026| delay 10s...
-[1]Caulia      |08:15:06 | 20-10-2026| [3/6] ecdd3dc8 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/wcaulia/status/2112457172939103395
-[1]Caulia      |08:15:06 | 20-10-2026| delay 10s...
-[1]Caulia      |08:15:19 | 20-10-2026| [4/6] f533191c (reply) verify GAGAL http=503 resp={"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"} | proof=https://x.com/wcaulia/status/2112457276366653196
-[1]Caulia      |08:15:19 | 20-10-2026| delay 10s...
-[1]Caulia      |08:15:29 | 20-10-2026| [5/6] 8ff68dcd (reply) verify GAGAL http=503 resp={"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"} | proof=https://x.com/wcaulia/status/2112457056964963628
-[1]Caulia      |08:15:29 | 20-10-2026| delay 10s...
-[1]Caulia      |08:15:41 | 20-10-2026| [6/6] 57f13195 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/wcaulia/status/2112457238337473389
-[1]Caulia      |08:15:41 | 20-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Caulia      |08:15:42 | 20-10-2026| [1/1] f8ede5f6 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2112200949674791 | proof=https://x.com/wcaulia/status/2112457396103737674
+[1]Caulia      |05:46:42 | 22-10-2026| daily: OK +10 poin score=1630
+--> [1]Caulia menjalankan: Auto All Tasks (12 pending)
+[1]Caulia      |05:46:44 | 22-10-2026| [1/12] 7c25d003 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/wcaulia/status/2113144614992566069
+[1]Caulia      |05:46:44 | 22-10-2026| delay 10s...
+[1]Caulia      |05:46:56 | 22-10-2026| [2/12] 1d9e1a73 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/wcaulia/status/2113144778092846294
+[1]Caulia      |05:46:56 | 22-10-2026| delay 10s...
+[1]Caulia      |05:47:08 | 22-10-2026| [3/12] 2f4c6b39 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/wcaulia/status/2113144730987759368
+[1]Caulia      |05:47:08 | 22-10-2026| delay 10s...
+[1]Caulia      |05:47:20 | 22-10-2026| [4/12] 4dabfbcd (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/wcaulia/status/2113144793900304141
+[1]Caulia      |05:47:20 | 22-10-2026| delay 10s...
+[1]Caulia      |05:47:32 | 22-10-2026| [5/12] ada86142 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/wcaulia/status/2113144591677678951
+[1]Caulia      |05:47:32 | 22-10-2026| delay 10s...
+[1]Caulia      |05:47:44 | 22-10-2026| [6/12] 67a9776a (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/wcaulia/status/2113144716689086847
+[1]Caulia      |05:47:44 | 22-10-2026| delay 10s...
+[1]Caulia      |05:47:55 | 22-10-2026| [7/12] e90ce04d (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/wcaulia/status/2113144750012177288
+[1]Caulia      |05:47:55 | 22-10-2026| delay 10s...
+[1]Caulia      |05:48:07 | 22-10-2026| [8/12] 06ee5b2a (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/wcaulia/status/2113144954645262389
+[1]Caulia      |05:48:07 | 22-10-2026| delay 10s...
+[1]Caulia      |05:48:19 | 22-10-2026| [9/12] 05c835bd (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/wcaulia/status/2113145105314040431
+[1]Caulia      |05:48:19 | 22-10-2026| delay 10s...
+[1]Caulia      |05:48:31 | 22-10-2026| [10/12] 8a108d4b (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/wcaulia/status/2113144945543807299
+[1]Caulia      |05:48:31 | 22-10-2026| delay 10s...
+[1]Caulia      |05:48:43 | 22-10-2026| [11/12] bd8c2f19 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054
+[1]Caulia      |05:48:43 | 22-10-2026| delay 10s...
+[1]Caulia      |05:48:55 | 22-10-2026| [12/12] f533191c (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/wcaulia/status/2113144919420767420
+[1]Caulia      |05:48:55 | 22-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Caulia      |05:48:57 | 22-10-2026| [1/1] 7c25d003 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2113116994090545 | proof=https://x.com/wcaulia/status/2113145124352876137
 --> [1]Caulia menjalankan: Watch Anime
-[1]Caulia      |08:15:43 | 20-10-2026| watch: 4 video belum completed: oshi-captains-hat,oshi-rainbow-star,oshi-rainbow-lighthouse,bakeru-ikesou-jan-mv
-[1]Caulia      |08:15:43 | 20-10-2026| watch [1/4] farming oshi-captains-hat...
-[1]Caulia      |08:15:44 | 20-10-2026| watch oshi-captains-hat: 0% (0.00/92.00s)
-[1]Caulia      |08:15:51 | 20-10-2026| watch oshi-captains-hat: 5% (5.08/92.00s)
-[1]Caulia      |08:15:57 | 20-10-2026| watch oshi-captains-hat: 11% (10.55/92.00s)
-[1]Caulia      |08:16:02 | 20-10-2026| watch oshi-captains-hat: 17% (15.99/92.00s)
-[1]Caulia      |08:16:08 | 20-10-2026| watch oshi-captains-hat: 23% (21.29/92.00s)
-[1]Caulia      |08:16:14 | 20-10-2026| watch oshi-captains-hat: 28% (26.63/92.00s)
-[1]Caulia      |08:16:20 | 20-10-2026| watch oshi-captains-hat: 34% (31.99/92.00s)
-[1]Caulia      |08:16:27 | 20-10-2026| watch oshi-captains-hat: 40% (37.30/92.00s)
-[1]Caulia      |08:16:33 | 20-10-2026| watch oshi-captains-hat: 47% (43.35/92.00s)
-[1]Caulia      |08:16:39 | 20-10-2026| watch oshi-captains-hat: 53% (49.01/92.00s)
-[1]Caulia      |08:16:46 | 20-10-2026| watch oshi-captains-hat: 59% (54.32/92.00s)
-[1]Caulia      |08:16:53 | 20-10-2026| watch oshi-captains-hat: 66% (60.86/92.00s)
-[1]Caulia      |08:16:59 | 20-10-2026| watch oshi-captains-hat: 72% (66.52/92.00s)
-[1]Caulia      |08:17:05 | 20-10-2026| watch oshi-captains-hat: 78% (71.94/92.00s)
-[1]Caulia      |08:17:11 | 20-10-2026| watch oshi-captains-hat: 83% (77.27/92.00s)
-[1]Caulia      |08:17:17 | 20-10-2026| watch oshi-captains-hat: 89% (82.65/92.00s)
-[1]Caulia      |08:17:23 | 20-10-2026| watch oshi-captains-hat: 96% (88.52/92.00s)
-[1]Caulia      |08:17:23 | 20-10-2026| watch oshi-captains-hat: COMPLETED (88.52/92.00s)
-[1]Caulia      |08:17:28 | 20-10-2026| watch [2/4] farming oshi-rainbow-star...
-[1]Caulia      |08:17:31 | 20-10-2026| watch oshi-rainbow-star: 0% (0.00/86.00s)
-[1]Caulia      |08:17:37 | 20-10-2026| watch oshi-rainbow-star: 5% (5.07/86.00s)
-[1]Caulia      |08:17:43 | 20-10-2026| watch oshi-rainbow-star: 12% (10.43/86.00s)
-[1]Caulia      |08:17:49 | 20-10-2026| watch oshi-rainbow-star: 18% (15.83/86.00s)
-[1]Caulia      |08:17:55 | 20-10-2026| watch oshi-rainbow-star: 24% (21.15/86.00s)
-[1]Caulia      |08:18:01 | 20-10-2026| watch oshi-rainbow-star: 31% (26.68/86.00s)
-[1]Caulia      |08:18:07 | 20-10-2026| watch oshi-rainbow-star: 37% (32.01/86.00s)
-[1]Caulia      |08:18:13 | 20-10-2026| watch oshi-rainbow-star: 43% (37.80/86.00s)
-[1]Caulia      |08:18:19 | 20-10-2026| watch oshi-rainbow-star: 50% (43.12/86.00s)
-[1]Caulia      |08:18:25 | 20-10-2026| watch oshi-rainbow-star: 56% (48.48/86.00s)
-[1]Caulia      |08:18:31 | 20-10-2026| watch oshi-rainbow-star: 62% (53.80/86.00s)
-[1]Caulia      |08:18:37 | 20-10-2026| watch oshi-rainbow-star: 68% (59.12/86.00s)
-[1]Caulia      |08:18:43 | 20-10-2026| watch oshi-rainbow-star: 75% (64.76/86.00s)
-[1]Caulia      |08:18:50 | 20-10-2026| watch oshi-rainbow-star: 81% (70.37/86.00s)
-[1]Caulia      |08:18:56 | 20-10-2026| watch oshi-rainbow-star: 88% (76.44/86.00s)
-[1]Caulia      |08:19:03 | 20-10-2026| watch oshi-rainbow-star: 95% (82.10/86.00s)
-[1]Caulia      |08:19:03 | 20-10-2026| watch oshi-rainbow-star: COMPLETED (82.10/86.00s)
-[1]Caulia      |08:19:08 | 20-10-2026| watch [3/4] farming oshi-rainbow-lighthouse...
-[1]Caulia      |08:19:10 | 20-10-2026| watch oshi-rainbow-lighthouse: 0% (0.00/87.00s)
-[1]Caulia      |08:19:17 | 20-10-2026| watch oshi-rainbow-lighthouse: 5% (5.16/87.00s)
-[1]Caulia      |08:19:23 | 20-10-2026| watch oshi-rainbow-lighthouse: 12% (11.08/87.00s)
-[1]Caulia      |08:19:29 | 20-10-2026| watch oshi-rainbow-lighthouse: 19% (17.09/87.00s)
-[1]Caulia      |08:19:35 | 20-10-2026| watch oshi-rainbow-lighthouse: 26% (22.74/87.00s)
-[1]Caulia      |08:19:42 | 20-10-2026| watch oshi-rainbow-lighthouse: 32% (28.11/87.00s)
-[1]Caulia      |08:19:48 | 20-10-2026| watch oshi-rainbow-lighthouse: 39% (34.11/87.00s)
-[1]Caulia      |08:19:54 | 20-10-2026| watch oshi-rainbow-lighthouse: 45% (39.53/87.00s)
-[1]Caulia      |08:20:00 | 20-10-2026| watch oshi-rainbow-lighthouse: 51% (44.85/87.00s)
-[1]Caulia      |08:20:06 | 20-10-2026| watch oshi-rainbow-lighthouse: 57% (50.33/87.00s)
-[1]Caulia      |08:20:12 | 20-10-2026| watch oshi-rainbow-lighthouse: 64% (56.14/87.00s)
-[1]Caulia      |08:20:33 | 20-10-2026| watch oshi-rainbow-lighthouse: 70% (61.47/87.00s)
-[1]Caulia      |08:20:40 | 20-10-2026| watch oshi-rainbow-lighthouse: 70% (61.47/87.00s)
-[1]Caulia      |08:20:48 | 20-10-2026| watch oshi-rainbow-lighthouse: 78% (68.31/87.00s)
-[1]Caulia      |08:20:54 | 20-10-2026| watch oshi-rainbow-lighthouse: 79% (68.84/87.00s)
-[1]Caulia      |08:21:32 | 20-10-2026| watch oshi-rainbow-lighthouse: posisi mentok tanpa completed, stop
-[1]Caulia      |08:21:37 | 20-10-2026| watch [4/4] farming bakeru-ikesou-jan-mv...
-[1]Caulia      |08:21:38 | 20-10-2026| watch bakeru-ikesou-jan-mv: 0% (0.00/181.00s)
-[1]Caulia      |08:21:44 | 20-10-2026| watch bakeru-ikesou-jan-mv: 2% (5.11/181.00s)
-[1]Caulia      |08:21:51 | 20-10-2026| watch bakeru-ikesou-jan-mv: 5% (10.46/181.00s)
-[1]Caulia      |08:21:57 | 20-10-2026| watch bakeru-ikesou-jan-mv: 8% (16.25/181.00s)
-[1]Caulia      |08:22:04 | 20-10-2026| watch bakeru-ikesou-jan-mv: 12% (22.17/181.00s)
-[1]Caulia      |08:22:10 | 20-10-2026| watch bakeru-ikesou-jan-mv: 15% (28.01/181.00s)
-[1]Caulia      |08:22:16 | 20-10-2026| watch bakeru-ikesou-jan-mv: 18% (33.50/181.00s)
-[1]Caulia      |08:22:22 | 20-10-2026| watch bakeru-ikesou-jan-mv: 21% (38.83/181.00s)
-[1]Caulia      |08:22:29 | 20-10-2026| watch bakeru-ikesou-jan-mv: 24% (44.41/181.00s)
-[1]Caulia      |08:22:34 | 20-10-2026| watch bakeru-ikesou-jan-mv: 27% (50.19/181.00s)
-[1]Caulia      |08:22:41 | 20-10-2026| watch bakeru-ikesou-jan-mv: 30% (55.51/181.00s)
-[1]Caulia      |08:22:47 | 20-10-2026| watch bakeru-ikesou-jan-mv: 33% (61.30/181.00s)
-[1]Caulia      |08:22:53 | 20-10-2026| watch bakeru-ikesou-jan-mv: 36% (66.80/181.00s)
-[1]Caulia      |08:22:59 | 20-10-2026| watch bakeru-ikesou-jan-mv: 39% (72.15/181.00s)
-[1]Caulia      |08:23:05 | 20-10-2026| watch bakeru-ikesou-jan-mv: 42% (77.58/181.00s)
-[1]Caulia      |08:23:11 | 20-10-2026| watch bakeru-ikesou-jan-mv: 45% (82.92/181.00s)
-[1]Caulia      |08:23:17 | 20-10-2026| watch bakeru-ikesou-jan-mv: 49% (88.71/181.00s)
-[1]Caulia      |08:23:23 | 20-10-2026| watch bakeru-ikesou-jan-mv: 52% (94.22/181.00s)
-[1]Caulia      |08:23:30 | 20-10-2026| watch bakeru-ikesou-jan-mv: 55% (99.60/181.00s)
-[1]Caulia      |08:23:38 | 20-10-2026| watch bakeru-ikesou-jan-mv: 58% (105.75/181.00s)
-[1]Caulia      |08:23:45 | 20-10-2026| watch bakeru-ikesou-jan-mv: 61% (112.15/181.00s)
-[1]Caulia      |08:23:51 | 20-10-2026| watch bakeru-ikesou-jan-mv: 65% (118.10/181.00s)
-[1]Caulia      |08:23:57 | 20-10-2026| watch bakeru-ikesou-jan-mv: 68% (124.00/181.00s)
-[1]Caulia      |08:24:03 | 20-10-2026| watch bakeru-ikesou-jan-mv: 71% (129.45/181.00s)
-[1]Caulia      |08:24:09 | 20-10-2026| watch bakeru-ikesou-jan-mv: 74% (134.93/181.00s)
-[1]Caulia      |08:24:16 | 20-10-2026| watch bakeru-ikesou-jan-mv: 77% (140.31/181.00s)
-[1]Caulia      |08:24:22 | 20-10-2026| watch bakeru-ikesou-jan-mv: 80% (146.32/181.00s)
-[1]Caulia      |08:24:28 | 20-10-2026| watch bakeru-ikesou-jan-mv: 83% (151.95/181.00s)
-[1]Caulia      |08:24:34 | 20-10-2026| watch bakeru-ikesou-jan-mv: 86% (157.28/181.00s)
-[1]Caulia      |08:24:39 | 20-10-2026| watch bakeru-ikesou-jan-mv: 89% (162.67/181.00s)
-[1]Caulia      |08:24:45 | 20-10-2026| watch bakeru-ikesou-jan-mv: 92% (168.02/181.00s)
-[1]Caulia      |08:24:45 | 20-10-2026| watch bakeru-ikesou-jan-mv: COMPLETED (168.02/181.00s)
+[1]Caulia      |05:48:58 | 22-10-2026| watch: 1 video belum completed: oshi-rainbow-lighthouse
+[1]Caulia      |05:48:58 | 22-10-2026| watch [1/1] farming oshi-rainbow-lighthouse...
+[1]Caulia      |05:48:59 | 22-10-2026| watch oshi-rainbow-lighthouse: mulai dari 0 (record 68.8s diabaikan)
+[1]Caulia      |05:49:00 | 22-10-2026| watch oshi-rainbow-lighthouse: 79% (68.84/87.00s)
+[1]Caulia      |05:49:06 | 22-10-2026| watch oshi-rainbow-lighthouse: 79% (68.84/87.00s)
+[1]Caulia      |05:49:12 | 22-10-2026| watch oshi-rainbow-lighthouse: 79% (68.84/87.00s)
+[1]Caulia      |05:49:18 | 22-10-2026| watch oshi-rainbow-lighthouse: 79% (68.84/87.00s)
+[1]Caulia      |05:49:24 | 22-10-2026| watch oshi-rainbow-lighthouse: 79% (68.84/87.00s)
+[1]Caulia      |05:49:30 | 22-10-2026| watch oshi-rainbow-lighthouse: 79% (68.84/87.00s)
+[1]Caulia      |05:49:37 | 22-10-2026| watch oshi-rainbow-lighthouse: 79% (68.84/87.00s)
+[1]Caulia      |05:49:43 | 22-10-2026| watch oshi-rainbow-lighthouse: 79% (68.84/87.00s)
+[1]Caulia      |05:49:49 | 22-10-2026| watch oshi-rainbow-lighthouse: 79% (68.84/87.00s)
+[1]Caulia      |05:49:55 | 22-10-2026| watch oshi-rainbow-lighthouse: 79% (68.84/87.00s)
+[1]Caulia      |05:50:01 | 22-10-2026| watch oshi-rainbow-lighthouse: 79% (68.84/87.00s)
+[1]Caulia      |05:50:07 | 22-10-2026| watch oshi-rainbow-lighthouse: 79% (68.84/87.00s)
+[1]Caulia      |05:50:13 | 22-10-2026| watch oshi-rainbow-lighthouse: 83% (73.05/87.00s)
+[1]Caulia      |05:50:20 | 22-10-2026| watch oshi-rainbow-lighthouse: 90% (78.46/87.00s)
+[1]Caulia      |05:50:20 | 22-10-2026| watch oshi-rainbow-lighthouse: COMPLETED (78.46/87.00s)
 --> [1]Caulia menjalankan: Read Article
-[1]Caulia      |08:24:47 | 20-10-2026| news: 27/27 artikel selesai dibaca
-[1]Caulia      |08:24:47 | 20-10-2026| mint eligibility: {"userId":"1635598125447659520","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@wcaulia","status":"unsubmitted","revision":"","submittedAt":null,"reviewedAt":nu
-[1]Caulia      |08:24:47 | 20-10-2026| news: semua artikel sudah dibaca
+[1]Caulia      |05:50:21 | 22-10-2026| news: 27/27 artikel selesai dibaca
+[1]Caulia      |05:50:22 | 22-10-2026| mint eligibility: {"userId":"1635598125447659520","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@wcaulia","status":"unsubmitted","revision":"","submittedAt":null,"reviewedAt":nu
+[1]Caulia      |05:50:29 | 22-10-2026| news community-first-update-2026-10: complete GAGAL http=404 resp={"error":"記事が見つかりません。"}
+[1]Caulia      |05:50:37 | 22-10-2026| news oshi-nft-price-and-basic-income-01: complete GAGAL http=404 resp={"error":"記事が見つかりません。"}
 --> [1]Caulia menjalankan: Quiz Anime
-[1]Caulia      |08:24:48 | 20-10-2026| quiz ep1: sudah dijawab
-[1]Caulia      |08:24:48 | 20-10-2026| quiz ep2: sudah dijawab
-[1]Caulia      |08:24:48 | 20-10-2026| quiz ep3: sudah dijawab
-[1]Caulia      |08:24:48 | 20-10-2026| quiz ep4: sudah dijawab
-[1]Caulia      |08:24:48 | 20-10-2026| quiz ep5: sudah dijawab
-[1]Caulia      |08:24:48 | 20-10-2026| quiz ep6: sudah dijawab
+[1]Caulia      |05:50:40 | 22-10-2026| quiz ep1: sudah dijawab
+[1]Caulia      |05:50:40 | 22-10-2026| quiz ep2: sudah dijawab
+[1]Caulia      |05:50:40 | 22-10-2026| quiz ep3: sudah dijawab
+[1]Caulia      |05:50:40 | 22-10-2026| quiz ep4: sudah dijawab
+[1]Caulia      |05:50:40 | 22-10-2026| quiz ep5: sudah dijawab
+[1]Caulia      |05:50:40 | 22-10-2026| quiz ep6: sudah dijawab
 --> [1]Caulia menjalankan: Music Missions (realtime, bisa lama!)
-[1]Caulia      |08:24:49 | 20-10-2026| music: kedua misi sudah tercapai, stop
-[1]Caulia      |08:24:50 | 20-10-2026| mission music-listens-10: sudah diklaim
-[1]Caulia      |08:24:50 | 20-10-2026| mission music-minutes-30: sudah diklaim
-[1]Caulia      |08:24:50 | 20-10-2026| mission anime-completed-3: sudah diklaim
+[1]Caulia      |05:50:42 | 22-10-2026| music: kedua misi sudah tercapai, stop
+[1]Caulia      |05:50:43 | 22-10-2026| mission music-listens-10: sudah diklaim
+[1]Caulia      |05:50:43 | 22-10-2026| mission music-minutes-30: sudah diklaim
+[1]Caulia      |05:50:43 | 22-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Caulia menjalankan: Claim Missions
-[1]Caulia      |08:24:50 | 20-10-2026| mission music-listens-10: sudah diklaim
-[1]Caulia      |08:24:50 | 20-10-2026| mission music-minutes-30: sudah diklaim
-[1]Caulia      |08:24:50 | 20-10-2026| mission anime-completed-3: sudah diklaim
+[1]Caulia      |05:50:43 | 22-10-2026| mission music-listens-10: sudah diklaim
+[1]Caulia      |05:50:43 | 22-10-2026| mission music-minutes-30: sudah diklaim
+[1]Caulia      |05:50:43 | 22-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Caulia menjalankan: Check Eligibility
 
 --- eligibility [1]Caulia ---
-  @wcaulia | score=1570 rank=4420
-  tasks    [##################--] 73/79
+  @wcaulia | score=1620 rank=4437
+  tasks    [#################---] 72/84
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
   quiz     [####################] 6/6
-  watch    [####################] 21/17
+  watch    [####################] 22/17
   music    [####################] 11/11
   artikel  [####################] 27/27
   mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Caulia menjalankan: Read Manga
-[1]Caulia      |08:24:54 | 20-10-2026| manga: 0/13 chapter belum completed
+[1]Caulia      |05:50:48 | 22-10-2026| manga: 0/13 chapter belum completed
 --> [1]Caulia menjalankan: Get Gift
-[1]Caulia      |08:24:55 | 20-10-2026| gift: 0/4 belum diterima
+[1]Caulia      |05:50:48 | 22-10-2026| gift: 0/4 belum diterima
 --> [1]Caulia menjalankan: Setup Profile
-[1]Caulia      |08:24:56 | 20-10-2026| profile: bio="https://x.com/wcaulia" fav=kagura rewardAt=1791682160
-[1]Caulia      |08:24:56 | 20-10-2026| profile: bonus sudah diklaim, skip
+[1]Caulia      |05:50:49 | 22-10-2026| profile: bio="https://x.com/wcaulia" fav=kagura rewardAt=1791682160
+[1]Caulia      |05:50:49 | 22-10-2026| profile: bonus sudah diklaim, skip
 --> [1]Caulia menjalankan: Bind Wallet
-[1]Caulia      |08:24:56 | 20-10-2026| wallet: sudah terikat 9B4qC8JrSz... (solana)
+[1]Caulia      |05:50:49 | 22-10-2026| wallet: sudah terikat 9B4qC8JrSz... (solana)
 
 == RINGKASAN ==
-- Caulia: daily=claimed | tasks OK 5/7 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 3/4 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/4 diterima | profile - | wallet bound | mint req=false open=false
+- Caulia: daily=claimed | tasks OK 13/13 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 1/1 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/4 diterima | profile - | wallet bound | mint req=false open=false
